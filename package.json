@@ -31,6 +31,7 @@
     "gitbook-plugin-alerts": "^0.2.0",
     "gitbook-plugin-anchor-navigation-ex": "^0.1.8",
     "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-disqus": "^0.1.0",
     "gitbook-plugin-donate": "^1.0.2",
     "gitbook-plugin-edit-link": "^2.0.2",
     "gitbook-plugin-emphasize": "^1.1.0",

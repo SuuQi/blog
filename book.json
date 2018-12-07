@@ -45,12 +45,16 @@
         "alerts@^0.2.0",
         "rss@^3.0.2",
         "-sharing",
-        "sharing-plus@^0.0.2"
+        "sharing-plus@^0.0.2",
+        "disqus"
     ],
 
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true
+        },
+        "disqus": {
+            "shortName": "hzsuqin"
         },
         "prism": {
             "css": [
