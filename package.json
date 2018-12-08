@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "gitbook serve",
-    "install": "gitbook intall",
+    "install": "gitbook install",
     "build": "gitbook build",
     "build:debug": "gitbook build --log=debug --debug",
     "test": "echo \"Error: no test specified\" && exit 1"
