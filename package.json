@@ -4,7 +4,6 @@
   "description": "苏秦的个人博客",
   "main": "index.js",
   "scripts": {
-    "install": "npm install",
     "dev": "gitbook serve",
     "build": "gitbook build",
     "build:debug": "gitbook build --log=debug --debug",
