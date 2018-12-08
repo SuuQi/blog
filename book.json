@@ -10,7 +10,7 @@
     },
     "links": {
         "sidebar": {
-            "Home": "https://book.queenlan.cn"
+            "Home": "https://blog.queenlan.cn"
         }
     },
     "plugins": [
@@ -125,7 +125,7 @@
             "label": "编辑本页面"
         },
         "sitemap-general": {
-            "prefix": "https://book.queenlan.cn"
+            "prefix": "https://blog.queenlan.cn"
         },
         "anchor-navigation-ex": {
             "isRewritePageTitle": false,
@@ -150,8 +150,8 @@
             "title": "大锤爸爸的博客",
             "description": "大锤爸爸的博客，每周一更。",
             "author": "hzsuqin <15957136119@163.com>",
-            "feed_url": "https://book.queenlan.cn/rss",
-            "site_url": "https://book.queenlan.cn",
+            "feed_url": "https://blog.queenlan.cn/rss",
+            "site_url": "https://blog.queenlan.cn",
             "managingEditor": "15957136119@163.com",
             "webMaster": "15957136119@163.com",
             "categories": [
