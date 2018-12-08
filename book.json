@@ -102,7 +102,7 @@
        },
         "local-pagefooter": {
             "copyright": "Copyright © queenlan.com 2018",
-            "islocal": false,
+            "islocal": true,
             "modify_label": "该文件更新时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
