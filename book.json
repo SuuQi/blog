@@ -115,7 +115,7 @@
             "wechatText": "微信打赏"
         },
         "edit-link": {
-            "base": "https://github.com/SuuQi/blog",
+            "base": "https://github.com/SuuQi/blog/edit/master/",
             "label": "编辑"
         },
         "sitemap-general": {
