@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "1.0.0",
-  "description": "苏秦的个人博客",
+  "description": "大锤爸爸的个人博客",
   "main": "index.js",
   "scripts": {
     "dev": "gitbook serve",
@@ -28,12 +28,8 @@
     "gitbook-plugin-3-ba": "^0.9.0",
     "gitbook-plugin-ace": "^0.3.2",
     "gitbook-plugin-advanced-emoji": "^0.2.2",
-    "gitbook-plugin-alerts": "^0.2.0",
-    "gitbook-plugin-anchors": "^0.7.1",
     "gitbook-plugin-disqus": "^0.1.0",
-    "gitbook-plugin-donate": "^1.0.2",
     "gitbook-plugin-edit-link": "^2.0.2",
-    "gitbook-plugin-expandable-chapters-small": "^0.1.7",
     "gitbook-plugin-favicon": "0.0.2",
     "gitbook-plugin-github": "^2.0.0",
     "gitbook-plugin-github-buttons": "^2.1.0",
@@ -41,12 +37,13 @@
     "gitbook-plugin-local-pagefooter": "^1.0.1",
     "gitbook-plugin-page-treeview": "^3.0.0",
     "gitbook-plugin-pageview-count": "^1.0.1",
+    "gitbook-plugin-page-toc": "^1.1.0",
     "gitbook-plugin-prism": "^2.4.0",
     "gitbook-plugin-prism-themes": "0.0.2",
     "gitbook-plugin-rss": "^3.0.2",
     "gitbook-plugin-search-plus": "0.0.11",
     "gitbook-plugin-sharing-plus": "0.0.2",
-    "gitbook-plugin-sitemap-general": "^0.1.1",
+    "gitbook-plugin-sitemap": "^1.2.0",
     "gitbook-plugin-splitter": "0.0.8",
     "gitbook-plugin-terminal": "^0.3.2"
   }
