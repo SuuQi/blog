@@ -40,7 +40,6 @@
         "disqus",
         "page-treeview"
     ],
-
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true
