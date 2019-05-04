@@ -38,7 +38,8 @@
         "-sharing",
         "sharing-plus@^0.0.2",
         "disqus",
-        "page-treeview"
+        "page-treeview",
+        "pageview-count"
     ],
 
     "pluginsConfig": {
