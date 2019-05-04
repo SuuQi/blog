@@ -1,14 +1,17 @@
 {
     "title": "大锤爸爸的博客",
-    "description": "大锤爸爸的博客，每周一更。",
+    "description": "大锤爸爸的博客。",
     "author": "hzsuqin <15957136119@163.com>",
     "language": "zh-hans",
-    "gitbook": "3.2.3",
+    "gitbook": "3.x.x",
     "root": ".",
     "links": {
         "sidebar": {
-            "Home": "https://blog.queenlan.cn"
+            "GitHub": "https://github.com/SuuQi/blog"
         }
+    },
+    "styles": {
+      "website": "styles/website.css"
     },
     "plugins": [
         "-lunr",
@@ -22,28 +25,23 @@
         "prism@^2.1.0",
         "prism-themes@^0.0.2",
         "advanced-emoji@^0.2.1",
-        "anchors@^0.7.1",
         "include-codeblock@^3.0.2",
         "ace@^0.3.2",
         "splitter@^0.0.8",
         "local-pagefooter@1.0.1",
-        "expandable-chapters-small@^0.1.7",
-        "donate@^1.0.2",
-        "sitemap-general@^0.1.1",
+        "sitemap",
         "favicon@^0.0.2",
         "3-ba@^0.9.0",
         "terminal@^0.3.2",
-        "alerts@^0.2.0",
         "rss@^3.0.2",
         "-sharing",
         "sharing-plus@^0.0.2",
+        "page-toc",
         "disqus",
-        "page-treeview"
+        "page-treeview",
+        "pageview-count"
     ],
     "pluginsConfig": {
-        "theme-default": {
-            "showLevel": true
-        },
         "disqus": {
             "shortName": "hzsuqin"
         },
@@ -61,11 +59,6 @@
                 "star"
             ],
             "size": "small"
-        },
-        "page-treeview": {
-            "copyright": "Copyright &#169; queenlan.cn",
-            "minHeaderCount": "2",
-            "minHeaderDeep": "2"
         },
         "include-codeblock": {
             "template": "ace",
@@ -105,20 +98,12 @@
         "3-ba": {
             "token": "23da6c996fc15e32a5b8d38f9ab94743"
         },
-        "donate": {
-            "wechat": "https://res.queenlan.cn/res/image/weixin.png",
-            "alipay": "https://res.queenlan.cn/res/image/alipay.png",
-            "title": "",
-            "button": "赏",
-            "alipayText": "支付宝打赏",
-            "wechatText": "微信打赏"
-        },
         "edit-link": {
             "base": "https://github.com/SuuQi/blog/edit/master/",
             "label": "编辑"
         },
-        "sitemap-general": {
-            "prefix": "https://blog.queenlan.cn/"
+        "sitemap": {
+            "hostname": "https://blog.queenlan.cn"
         },
         "favicon": {
             "shortcut": "favicon.ico",
@@ -129,10 +114,9 @@
             "fade": false,
             "style": "flat"
         },
-
         "rss": {
             "title": "大锤爸爸的博客",
-            "description": "大锤爸爸的博客，每周一更。",
+            "description": "大锤爸爸的博客。",
             "author": "hzsuqin <15957136119@163.com>",
             "feed_url": "https://blog.queenlan.cn/rss",
             "site_url": "https://blog.queenlan.cn",
