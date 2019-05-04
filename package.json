@@ -35,6 +35,8 @@
     "gitbook-plugin-github-buttons": "^2.1.0",
     "gitbook-plugin-include-codeblock": "^3.2.2",
     "gitbook-plugin-local-pagefooter": "^1.0.1",
+    "gitbook-plugin-page-treeview": "^3.0.0",
+    "gitbook-plugin-pageview-count": "^1.0.1",
     "gitbook-plugin-page-toc": "^1.1.0",
     "gitbook-plugin-prism": "^2.4.0",
     "gitbook-plugin-prism-themes": "0.0.2",

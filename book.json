@@ -38,6 +38,8 @@
         "sharing-plus@^0.0.2",
         "page-toc",
         "disqus"
+        "page-treeview",
+        "pageview-count"
     ],
 
     "pluginsConfig": {
